@@ -1,21 +1,29 @@
 # one start URL per line
+
+# --- encyclopedias, literature, history, education ---
 https://pl.wikipedia.org/wiki/Polska
 https://pl.wikipedia.org/wiki/Historia_Polski
 https://pl.wikipedia.org/wiki/Nauka
 https://pl.wikipedia.org/wiki/Kultura
 https://pl.wikisource.org
-https://pl.wiktionary.org
 https://pl.wikibooks.org
 https://pl.wikinews.org
+https://pl.wikivoyage.org
 https://wolnelektury.pl
 https://encyklopedia.pwn.pl
+https://epodreczniki.pl
+https://zpe.gov.pl
+https://dzieje.pl
+https://histmag.org
+https://culture.pl/pl
+https://www.ipn.gov.pl
+
+# --- national news ---
 https://www.onet.pl
 https://www.wp.pl
 https://www.interia.pl
 https://www.o2.pl
 https://www.gazeta.pl
-https://wiadomosci.gazeta.pl
-https://wyborcza.pl
 https://www.rp.pl
 https://www.tvn24.pl
 https://www.polsatnews.pl
@@ -23,16 +31,30 @@ https://tvp.info
 https://www.polskieradio.pl
 https://www.rmf24.pl
 https://radiozet.pl
+https://www.tokfm.pl
 https://www.pap.pl
+https://www.dziennik.pl
+https://www.polskatimes.pl
+https://natemat.pl
+https://www.fakt.pl
+https://www.se.pl
+https://www.wirtualnemedia.pl
+https://www.press.pl
+
+# --- weeklies, opinion, blogs ---
 https://www.polityka.pl
 https://www.newsweek.pl
 https://www.wprost.pl
 https://dorzeczy.pl
 https://www.tygodnikpowszechny.pl
 https://oko.press
-https://natemat.pl
-https://www.fakt.pl
-https://www.se.pl
+https://krytykapolityczna.pl
+https://www.kulturaliberalna.pl
+https://www.deon.pl
+https://www.gosc.pl
+https://www.salon24.pl
+
+# --- business, finance, law ---
 https://www.money.pl
 https://www.bankier.pl
 https://businessinsider.com.pl
@@ -40,11 +62,25 @@ https://www.pb.pl
 https://forsal.pl
 https://www.gazetaprawna.pl
 https://www.wnp.pl
+https://www.parkiet.com
+https://www.obserwatorfinansowy.pl
+https://www.infor.pl
+https://www.prawo.pl
+https://poradnikprzedsiebiorcy.pl
+
+# --- regional news ---
 https://dzienniklodzki.pl
 https://gazetakrakowska.pl
 https://dziennikpolski24.pl
 https://www.trojmiasto.pl
 https://expressilustrowany.pl
+https://gazetawroclawska.pl
+https://gloswielkopolski.pl
+https://dziennikbaltycki.pl
+https://kurierlubelski.pl
+https://pomorska.pl
+
+# --- technology and science ---
 https://www.dobreprogramy.pl
 https://www.chip.pl
 https://spidersweb.pl
@@ -55,31 +91,53 @@ https://niebezpiecznik.pl
 https://sekurak.pl
 https://www.telepolis.pl
 https://www.android.com.pl
+https://www.pcworld.pl
+https://www.purepc.pl
+https://www.tabletowo.pl
+https://www.computerworld.pl
+https://www.cyberdefence24.pl
+https://4programmers.net
 https://naukawpolsce.pl
 https://www.crazynauka.pl
 https://www.urania.edu.pl
-https://histmag.org
-https://culture.pl/pl
-https://lubimyczytac.pl
-https://www.filmweb.pl
+https://kopalniawiedzy.pl
+https://www.focus.pl
+https://kosmonauta.net
+https://naukaoklimacie.pl
+https://www.deltami.edu.pl
+
+# --- sport, games, film ---
 https://www.sport.pl
-https://przegladsportowy.onet.pl
-https://sport.tvp.pl
-https://weszlo.com
 https://www.meczyki.pl
+https://weszlo.com
 https://www.gry-online.pl
 https://www.ppe.pl
 https://cdaction.pl
+https://www.filmweb.pl
+
+# --- food, health, lifestyle ---
 https://aniagotuje.pl
 https://www.kwestiasmaku.com
 https://www.przepisy.pl
+https://www.kuchnialidla.pl
+https://www.mojewypieki.com
 https://www.medonet.pl
 https://www.poradnikzdrowie.pl
 https://www.abczdrowie.pl
 https://www.mp.pl
+https://www.rynekzdrowia.pl
+https://www.polki.pl
+https://www.mamotoja.pl
+https://www.homebook.pl
+
+# --- cars ---
 https://www.autokult.pl
 https://www.autocentrum.pl
 https://moto.pl
+https://www.auto-swiat.pl
+https://www.motofakty.pl
+
+# --- government and universities ---
 https://www.gov.pl
 https://www.sejm.gov.pl
 https://www.prezydent.pl
@@ -94,3 +152,9 @@ https://www.put.poznan.pl
 https://amu.edu.pl
 https://pg.edu.pl
 https://www.umk.pl
+https://www.us.edu.pl
+https://www.ug.edu.pl
+https://www.umcs.pl
+https://www.polsl.pl
+https://www.uni.wroc.pl
+https://www.kul.pl

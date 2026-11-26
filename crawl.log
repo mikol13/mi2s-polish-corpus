@@ -1,0 +1,527 @@
+2026-11-26 09:33:42,513 INFO started 96 threads, html parser: html.parser, only .pl + seed sites: True
+2026-11-26 09:33:43,685 WARNING 403 from https://www.wprost.pl/
+2026-11-26 09:33:43,865 WARNING 403 from https://dzieje.pl/
+2026-11-26 09:33:43,951 WARNING 403 from https://dorzeczy.pl/
+2026-11-26 09:33:43,952 WARNING 403 from https://culture.pl/pl
+2026-11-26 09:33:44,262 WARNING 403 from https://www.press.pl/
+2026-11-26 09:33:44,278 WARNING 403 from https://www.polskatimes.pl/
+2026-11-26 09:33:44,312 WARNING 403 from https://dzienniklodzki.pl/
+2026-11-26 09:33:44,335 WARNING 403 from https://gazetakrakowska.pl/
+2026-11-26 09:33:44,346 WARNING 403 from https://gazetawroclawska.pl/
+2026-11-26 09:33:44,353 WARNING 403 from https://kurierlubelski.pl/
+2026-11-26 09:33:44,390 WARNING 403 from https://expressilustrowany.pl/
+2026-11-26 09:33:44,403 WARNING 403 from https://dziennikbaltycki.pl/
+2026-11-26 09:33:44,427 WARNING 403 from https://gloswielkopolski.pl/
+2026-11-26 09:33:44,429 WARNING 403 from https://niebezpiecznik.pl/
+2026-11-26 09:33:44,431 WARNING 403 from https://dziennikpolski24.pl/
+2026-11-26 09:33:44,450 WARNING 403 from https://pomorska.pl/
+2026-11-26 09:33:44,814 WARNING 403 from https://www.trojmiasto.pl/
+2026-11-26 09:33:44,989 WARNING 403 from https://4programmers.net/
+2026-11-26 09:33:47,003 WARNING 403 from https://www.obserwatorfinansowy.pl/
+2026-11-26 09:33:50,021 WARNING 403 from https://www.przepisy.pl/
+2026-11-26 09:33:50,910 WARNING 403 from https://aniagotuje.pl/
+2026-11-26 09:33:53,311 WARNING 403 from https://www.motofakty.pl/
+2026-11-26 09:33:56,306 WARNING 403 from https://www.prezydent.pl/
+2026-11-26 09:33:58,090 WARNING 403 from https://www.agh.edu.pl/
+2026-11-26 09:34:01,862 WARNING 403 from https://blogbank.pl/
+2026-11-26 09:34:02,614 WARNING 403 from https://www.prezydent.pl/aktualnosci/polityka-historyczna/pomniki-historii/obiekty-wpisane-na-liste-pomnikow-historii
+2026-11-26 09:34:05,629 WARNING 403 from https://mambiznes.pl
+2026-11-26 09:34:07,622 INFO error http://www.biebrza.org.pl/48,roslinnosc.html: ConnectionError
+2026-11-26 09:34:07,679 WARNING 403 from http://www.muzhp.pl/artykuly/239/polska-w-ii-wojnie-swiatowej
+2026-11-26 09:34:08,657 WARNING 403 from https://geoforum.pl/news/34064/w-najnizszym-punkcie-polski-stanela-wieza-triangulacyjna
+2026-11-26 09:34:08,759 WARNING 403 from http://www.utk.gov.pl/portal/pl/27/245/WYKAZ_LICENCJONOWANYCH_PRZEWOZNIKOW_KOLEJOWYCH.html
+2026-11-26 09:34:09,625 INFO error https://www.us.edu.pl/: ReadTimeout
+2026-11-26 09:34:10,383 INFO error http://atlas2022.uw.edu.pl/: ConnectionError
+2026-11-26 09:34:12,564 WARNING 403 from https://www.sn.pl/
+2026-11-26 09:34:13,231 WARNING 403 from https://monitorfirm.pb.pl/
+2026-11-26 09:34:13,329 WARNING 403 from https://mambiznes.pl/news/50-mln-zl-na-projekt-br-skorzystaj-z-naboru-sciezka-smart/
+2026-11-26 09:34:13,737 WARNING 403 from https://www.senat.gov.pl/
+2026-11-26 09:34:13,744 INFO visited=294 saved=152 (52%) in_queue=21804 active_sites=91 | last 30s: 578 visited/min, 299 saved/min
+2026-11-26 09:34:13,747 WARNING 403 from https://pracuj.pl
+2026-11-26 09:34:18,629 WARNING 403 from https://mambiznes.pl/news/megaspeed-kozlem-ofiarnym-afery-jensena-huanga-firma-trafi-na-czarna-liste-w-usa/
+2026-11-26 09:34:24,621 WARNING 403 from https://www.pracuj.pl/
+2026-11-26 09:34:25,801 WARNING 403 from https://mambiznes.pl/news/pomoga-w-wyborze-perfumow-startup-wonderscent-z-nowym-finansowaniem/
+2026-11-26 09:34:26,761 WARNING 403 from http://dzieje.pl/
+2026-11-26 09:34:27,664 WARNING 403 from https://www.swps.pl/
+2026-11-26 09:34:30,052 INFO error https://sklep.infor.pl/inforlex-biura-rachunkowe.html: ReadTimeout
+2026-11-26 09:34:32,762 WARNING 403 from https://mambiznes.pl/news/branza-meblarska-protestuje-ubylo-50-tys-etatow/
+2026-11-26 09:34:34,198 WARNING skipping mambiznes.pl from now on (too many errors)
+2026-11-26 09:34:39,496 INFO error https://pl.wikisource.org/wiki/Wiki%C5%BAr%C3%B3d%C5%82a:Wikiprojekt_Proofread: ReadTimeout
+2026-11-26 09:34:45,383 INFO visited=610 saved=350 (57%) in_queue=30772 active_sites=90 | last 30s: 624 visited/min, 391 saved/min
+2026-11-26 09:34:50,801 INFO error https://gratka.pl/nieruchomosci: ReadTimeout
+2026-11-26 09:34:53,329 INFO stopped by user, run again to continue
+2026-11-26 09:34:54,761 ERROR unexpected error on https://samorzad.infor.pl/sektor/organizacja/prawo_administracyjne/
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 365, in process
+    self.add_url(link, depth + 1)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 157, in add_url
+    cur = self.db.execute("INSERT OR IGNORE INTO queue (url, domain, depth) VALUES (?, ?, ?)",
+sqlite3.ProgrammingError: Incorrect number of bindings supplied. The current statement uses 0, and there are 3 supplied.
+2026-11-26 09:34:55,585 ERROR unexpected error on https://kryminalne.o2.pl/informacje/migrant-zgwalcil-mezczyzne-wyroki-w-anglii-7354799843530752a
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 365, in process
+    self.add_url(link, depth + 1)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 157, in add_url
+    cur = self.db.execute("INSERT OR IGNORE INTO queue (url, domain, depth) VALUES (?, ?, ?)",
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:55,587 ERROR unexpected error on https://praca.money.pl/oferty-pracy/m/warszawa/
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 366, in process
+    self.db.commit()
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:55,588 ERROR unexpected error on https://wiadomosci.wp.pl/mateusz-morawiecki-6030156813369985c
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 353, in process
+    self.db.execute(
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:55,628 ERROR unexpected error on https://cdaction.pl/newsy/
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 366, in process
+    self.db.commit()
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:55,721 ERROR unexpected error on https://portalobronny.se.pl/wojna-w-ukrainie/
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 353, in process
+    self.db.execute(
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:55,733 ERROR unexpected error on https://interpretacje.pl/pit/
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 353, in process
+    self.db.execute(
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:55,835 ERROR unexpected error on https://beszamel.se.pl/przepisy/przystawki-i-przekaski/to-nie-schabowy-jaegerschnitzel-z-nrd-robiono-z-mortadeli-i-podawano-z-czerwonym-sosem-re-wHeo-xVAQ-r2jQ.html
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 353, in process
+    self.db.execute(
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:55,855 ERROR unexpected error on https://sportowefakty.wp.pl/zuzel/pge-ekstraliga
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 366, in process
+    self.db.commit()
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:55,942 ERROR unexpected error on https://pl.wikivoyage.org/wiki/Wikipodróże:O_Wikipodróżach
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 353, in process
+    self.db.execute(
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:55,965 ERROR unexpected error on https://www.chip.pl/temat/tech
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 353, in process
+    self.db.execute(
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:56,067 ERROR unexpected error on https://kadry.infor.pl/kadry/indywidualne_prawo_pracy/ochrona_danych_osobowych/
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 353, in process
+    self.db.execute(
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:56,101 ERROR unexpected error on https://ai.infor.pl/rozmowy-z-chatgpt/
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 353, in process
+    self.db.execute(
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:56,143 ERROR unexpected error on https://gremimedia.pl/reklama.html
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 353, in process
+    self.db.execute(
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:56,236 ERROR unexpected error on https://finanse.wp.pl/tysiace-puszek-z-filami-niesamowite-odkrycie-w-szkolnej-piwnicy-7354517138245664a
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 353, in process
+    self.db.execute(
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:56,247 ERROR unexpected error on https://sport.fakt.pl/skoki-narciarskie
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 353, in process
+    self.db.execute(
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:56,273 ERROR unexpected error on https://edukacja.infor.pl/szkola/
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 353, in process
+    self.db.execute(
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:56,287 ERROR unexpected error on https://niezwyczajni.wp.pl/czlowiek-ktory-ujarzmil-chaos-stanislaw-taczak-i-narodziny-powstanczego-wojska
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 353, in process
+    self.db.execute(
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:56,313 ERROR unexpected error on https://reklama.wp.pl
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 353, in process
+    self.db.execute(
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:56,369 ERROR unexpected error on https://www.o2.pl/pozostale/szukasz-prezentow-dla-bliskich-tych-okazji-w-black-friday-nie-mozna-pominac-7354796030793728a
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 353, in process
+    self.db.execute(
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:56,401 ERROR unexpected error on https://telewizja.wp.pl
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 366, in process
+    self.db.commit()
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:56,481 ERROR unexpected error on https://informacje.wp.pl/wiadomosci/gonil-dziewczynki-i-im-grozil-interwencja-przed-szkola-na-targowku-7354810629896288a
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 353, in process
+    self.db.execute(
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:56,499 ERROR unexpected error on https://kup.tvn24.pl/oferta/rekomendowane
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 366, in process
+    self.db.commit()
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:56,522 ERROR unexpected error on https://moto.wp.pl/
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 366, in process
+    self.db.commit()
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:56,660 ERROR unexpected error on https://businessinsider.com.pl/gielda
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 366, in process
+    self.db.commit()
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:56,815 ERROR unexpected error on https://ludzie.fakt.pl/polfinal-top-model-kto-odpadl-w-sieci-zaroilo-sie-od-komentarzy/dq9xx49
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 353, in process
+    self.db.execute(
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:56,838 ERROR unexpected error on https://www.pb.pl/wydanie
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 366, in process
+    self.db.commit()
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:56,853 ERROR unexpected error on https://www.wirtualnemedia.pl/wydawcy,kategoria,7189206429448800
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 353, in process
+    self.db.execute(
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:56,859 ERROR unexpected error on https://www.infor.pl/prawo/rozwody/
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 353, in process
+    self.db.execute(
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:56,865 ERROR unexpected error on https://listownik.wp.pl/czy-twoja-sypialnia-jest-gotowa-na-zime
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 353, in process
+    self.db.execute(
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:56,962 ERROR unexpected error on https://www.rp.pl/polityka/art45534621-jak-szymon-holownia-wykaraskal-sie-z-klopotow-za-collegium-humanum
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 353, in process
+    self.db.execute(
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:56,970 ERROR unexpected error on https://jastrzabpost.pl/kuba-wojewodzki-reaguje-na-slowa-grzegorza-jankowskiego-przejechal-sie-po-celebrytach-chajzerach-andziaks,7354719194834976a
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 353, in process
+    self.db.execute(
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:57,058 ERROR unexpected error on https://podroze.pl/
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 366, in process
+    self.db.commit()
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:57,137 ERROR unexpected error on https://pysznosci.pl/w-sezonie-ewa-wachowicz-piecze-na-okraglo-najprostsze-ciasto-z-rabarbarem,7016058390969248a
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 353, in process
+    self.db.execute(
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:57,287 ERROR unexpected error on https://www.bankier.pl/newsletter/
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 353, in process
+    self.db.execute(
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:57,376 ERROR unexpected error on https://pomoc.tvn24.pl/
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 366, in process
+    self.db.commit()
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:57,393 ERROR unexpected error on https://www.inforlex.pl/?utm_source=infor.pl&utm_medium=linki&utm_campaign=inforlex-linki-infor-id102700
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 366, in process
+    self.db.commit()
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:57,405 ERROR unexpected error on https://mediateka.pl/wideo/polityka/arlukowicz-trump-jest-uzalezniony-od-putina-wyluskac-ruskich-agentow-z-elity-aa-xjYH-3E3s-ZcV1.html
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 353, in process
+    self.db.execute(
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:57,413 ERROR unexpected error on https://www.pit.pl/aktualnosci/ktore-podatki-przedawnia-sie-z-koncem-2025-r-1011964
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 353, in process
+    self.db.execute(
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:57,439 ERROR unexpected error on https://forsal.pl/nieruchomosci/aktualnosci/artykuly/11406174,czynsz-w-mieszkaniu-komunalnym-6-najwiekszych-miast-dane-zestawienie.html?utm_source=infor.pl&utm_medium=link-redakcyjny&utm_campaign=link-redakcyjny-id102623
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 353, in process
+    self.db.execute(
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:57,568 ERROR unexpected error on https://sklep.cdaction.pl/
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 353, in process
+    self.db.execute(
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:57,666 ERROR unexpected error on https://tvn24.pl/
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 366, in process
+    self.db.commit()
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:57,678 ERROR unexpected error on https://konkret24.tvn24.pl
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 366, in process
+    self.db.commit()
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:57,774 ERROR unexpected error on https://uroda.abczdrowie.pl/
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 353, in process
+    self.db.execute(
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:57,807 ERROR unexpected error on https://onas.wp.pl
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 353, in process
+    self.db.execute(
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:58,033 ERROR unexpected error on https://moto.infor.pl/auto-i-prawo/
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 353, in process
+    self.db.execute(
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:58,119 ERROR unexpected error on https://www.tygodnikpowszechny.pl/autor/justyna-kowalczyk-tekieli
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 366, in process
+    self.db.commit()
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:58,253 ERROR unexpected error on https://uwaga.tvn.pl/
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 366, in process
+    self.db.commit()
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:58,278 ERROR unexpected error on https://kontakt24.tvn24.pl
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 353, in process
+    self.db.execute(
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:58,318 ERROR unexpected error on https://eurosport.tvn24.pl
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 366, in process
+    self.db.commit()
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:58,383 ERROR unexpected error on https://tvn.pl/
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 366, in process
+    self.db.commit()
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:58,415 ERROR unexpected error on https://hgtv.pl/
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 366, in process
+    self.db.commit()
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:58,417 ERROR unexpected error on https://pl.wikipedia.org/wiki/Herb_Polski
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 353, in process
+    self.db.execute(
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:58,470 ERROR unexpected error on https://tvn7.pl/
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 366, in process
+    self.db.commit()
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:34:58,487 ERROR unexpected error on https://tvnturbo.pl/
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 381, in worker
+    touched = self.process(url, domain, depth)
+  File "/Users/apple/Desktop/ML/polish-crawler/main.py", line 366, in process
+    self.db.commit()
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2026-11-26 09:36:17,518 INFO started 96 threads, html parser: html.parser, only .pl + seed sites: True
+2026-11-26 09:36:18,618 WARNING 403 from https://dzieje.pl/
+2026-11-26 09:36:18,660 WARNING 403 from https://dorzeczy.pl/
+2026-11-26 09:36:18,660 WARNING 403 from https://www.wprost.pl/
+2026-11-26 09:36:18,673 WARNING 403 from https://www.press.pl/
+2026-11-26 09:36:18,716 WARNING 403 from https://www.polskatimes.pl/
+2026-11-26 09:36:18,922 WARNING 403 from https://niebezpiecznik.pl/
+2026-11-26 09:36:18,930 WARNING 403 from https://4programmers.net/
+2026-11-26 09:36:19,001 WARNING 403 from https://culture.pl/pl
+2026-11-26 09:36:19,046 WARNING 403 from https://gazetakrakowska.pl/
+2026-11-26 09:36:19,068 WARNING 403 from https://gazetawroclawska.pl/
+2026-11-26 09:36:19,258 WARNING 403 from https://dziennikpolski24.pl/
+2026-11-26 09:36:19,291 WARNING 403 from https://dziennikbaltycki.pl/
+2026-11-26 09:36:19,296 WARNING 403 from https://pomorska.pl/
+2026-11-26 09:36:19,306 WARNING 403 from https://kurierlubelski.pl/
+2026-11-26 09:36:19,312 WARNING 403 from https://expressilustrowany.pl/
+2026-11-26 09:36:19,498 WARNING 403 from https://dzienniklodzki.pl/
+2026-11-26 09:36:19,507 WARNING 403 from https://www.obserwatorfinansowy.pl/
+2026-11-26 09:36:19,620 WARNING 403 from https://gloswielkopolski.pl/
+2026-11-26 09:36:21,225 WARNING 403 from https://aniagotuje.pl/
+2026-11-26 09:36:21,377 WARNING 403 from https://www.przepisy.pl/
+2026-11-26 09:36:27,463 WARNING 403 from https://www.prezydent.pl/
+2026-11-26 09:36:27,510 WARNING 403 from https://www.motofakty.pl/
+2026-11-26 09:36:28,909 WARNING 403 from https://www.agh.edu.pl/
+2026-11-26 09:36:34,196 WARNING 403 from https://mambiznes.pl
+2026-11-26 09:36:36,106 WARNING 403 from https://blogbank.pl/
+2026-11-26 09:36:36,214 WARNING 403 from https://monitorfirm.pb.pl/
+2026-11-26 09:36:36,432 WARNING 403 from https://www.gowork.pl/praca
+2026-11-26 09:36:40,036 WARNING 403 from https://mambiznes.pl/news/50-mln-zl-na-projekt-br-skorzystaj-z-naboru-sciezka-smart/
+2026-11-26 09:36:40,326 INFO error https://www.us.edu.pl/: ReadTimeout
+2026-11-26 09:36:47,983 WARNING 403 from https://mambiznes.pl/news/megaspeed-kozlem-ofiarnym-afery-jensena-huanga-firma-trafi-na-czarna-liste-w-usa/
+2026-11-26 09:36:48,480 INFO visited=272 saved=138 (51%) in_queue=21453 active_sites=83 | last 30s: 536 visited/min, 272 saved/min
+2026-11-26 09:36:57,806 WARNING 403 from https://mambiznes.pl/news/pomoga-w-wyborze-perfumow-startup-wonderscent-z-nowym-finansowaniem/
+2026-11-26 09:37:05,571 WARNING 403 from https://mambiznes.pl/news/branza-meblarska-protestuje-ubylo-50-tys-etatow/
+2026-11-26 09:37:06,403 WARNING skipping mambiznes.pl from now on (too many errors)
+2026-11-26 09:37:14,970 WARNING 403 from https://www.gazetaprawna.pl/promocja/centrum_reklamy/forsal.html
+2026-11-26 09:37:23,489 INFO visited=617 saved=341 (55%) in_queue=28460 active_sites=84 | last 30s: 668 visited/min, 393 saved/min
+2026-11-26 09:37:30,129 WARNING 403 from https://www.ergohestia.pl/
+2026-11-26 09:37:50,028 WARNING 403 from https://www.gazetaprawna.pl/promocja/centrum_reklamy/
+2026-11-26 09:37:50,313 INFO visited=902 saved=498 (55%) in_queue=30948 active_sites=89 | last 30s: 568 visited/min, 313 saved/min
+2026-11-26 09:37:59,370 INFO error https://gratka.pl/nieruchomosci/mieszkania?utm_medium=fakt-widget&utm_campaign=listing-mieszkania: ReadTimeout
+2026-11-26 09:38:22,022 INFO visited=1211 saved=646 (53%) in_queue=34097 active_sites=87 | last 30s: 600 visited/min, 287 saved/min
+2026-11-26 09:38:29,903 WARNING 403 from https://www.prezydent.pl/aktualnosci/polityka-historyczna/pomniki-historii/obiekty-wpisane-na-liste-pomnikow-historii
+2026-11-26 09:38:32,934 WARNING 403 from http://www.muzhp.pl/artykuly/239/polska-w-ii-wojnie-swiatowej
+2026-11-26 09:38:34,666 INFO error https://kosmonauta.net/category/sektor-glowna/agencje-sektor/pozostale-przyszlosc/: ConnectionError
+2026-11-26 09:38:43,035 WARNING 403 from https://geoforum.pl/news/34064/w-najnizszym-punkcie-polski-stanela-wieza-triangulacyjna
+2026-11-26 09:38:48,626 INFO error http://praca.gazeta.pl/gazetapraca/1,73343,2567421.html: ConnectionError
+2026-11-26 09:38:51,386 INFO visited=1484 saved=798 (54%) in_queue=36520 active_sites=79 | last 30s: 545 visited/min, 303 saved/min
+2026-11-26 09:38:53,238 WARNING skipping forsal.pl from now on (no Polish text in the first 15 pages)
+2026-11-26 09:38:54,233 WARNING skipping notowania.pb.pl from now on (no Polish text in the first 15 pages)
+2026-11-26 09:38:55,933 WARNING 403 from http://www.utk.gov.pl/portal/pl/27/245/WYKAZ_LICENCJONOWANYCH_PRZEWOZNIKOW_KOLEJOWYCH.html
+2026-11-26 09:38:58,783 WARNING 403 from https://www.senat.gov.pl/
+2026-11-26 09:39:01,026 WARNING 403 from https://www.sn.pl/
+2026-11-26 09:39:01,499 WARNING 403 from http://dzieje.pl/
+2026-11-26 09:39:03,557 WARNING 403 from https://www.swps.pl/
+2026-11-26 09:39:13,639 WARNING 403 from https://pracuj.pl
+2026-11-26 09:39:15,977 WARNING skipping www.benchmark.pl from now on (no Polish text in the first 15 pages)
+2026-11-26 09:39:16,728 WARNING skipping www.tabletowo.pl from now on (no Polish text in the first 15 pages)
+2026-11-26 09:39:22,224 INFO visited=1804 saved=997 (55%) in_queue=40282 active_sites=92 | last 30s: 624 visited/min, 388 saved/min
+2026-11-26 09:39:22,820 WARNING skipping eurosport.tvn24.pl from now on (no Polish text in the first 15 pages)
+2026-11-26 09:39:25,659 WARNING 403 from https://zasoby.polityka.pl/polityka.pl/cg/
+2026-11-26 09:39:30,050 INFO error https://www.filmweb.pl/premiere: ConnectionError
+2026-11-26 09:39:33,313 WARNING 403 from https://mando.pl
+2026-11-26 09:39:38,432 WARNING skipping www.polsatnews.pl from now on (no Polish text in the first 15 pages)
+2026-11-26 09:39:47,036 INFO error https://tokfm.pl/gospodarka: ConnectionError
+2026-11-26 09:39:54,066 WARNING skipping pogoda.wp.pl from now on (no Polish text in the first 15 pages)
+2026-11-26 09:39:55,357 INFO visited=2116 saved=1223 (58%) in_queue=44083 active_sites=88 | last 30s: 606 visited/min, 439 saved/min
+2026-11-26 09:40:07,138 WARNING skipping praca.money.pl from now on (no Polish text in the first 15 pages)
+2026-11-26 09:40:17,483 WARNING 403 from https://naekranie.pl/
+2026-11-26 09:40:21,465 INFO error https://kosmonauta.net/2026/11/lot-ilr-33-bursztyn-2k-dla-thorium/: ConnectionError
+2026-11-26 09:40:25,583 WARNING 403 from https://www.mango.pl/
+2026-11-26 09:40:27,079 INFO visited=2460 saved=1445 (59%) in_queue=48077 active_sites=89 | last 30s: 681 visited/min, 439 saved/min
+2026-11-26 09:40:55,834 INFO visited=2772 saved=1658 (60%) in_queue=52237 active_sites=85 | last 30s: 610 visited/min, 416 saved/min
+2026-11-26 09:41:12,384 WARNING 403 from https://www.pracuj.pl/
+2026-11-26 09:41:26,948 INFO visited=2958 saved=1784 (60%) in_queue=54463 active_sites=83 | last 30s: 361 visited/min, 244 saved/min
+2026-11-26 09:41:33,397 WARNING 403 from https://www.cocolita.pl/
+2026-11-26 09:41:48,546 WARNING skipping www.rmf24.pl from now on (no Polish text in the first 15 pages)
+2026-11-26 09:41:58,206 INFO visited=3122 saved=1894 (61%) in_queue=57512 active_sites=88 | last 30s: 326 visited/min, 219 saved/min
+2026-11-26 09:41:59,826 WARNING skipping www.komputerswiat.pl from now on (no Polish text in the first 15 pages)
+2026-11-26 09:42:07,529 WARNING skipping www.filmweb.pl from now on (no Polish text in the first 15 pages)
+2026-11-26 09:42:25,725 INFO visited=3306 saved=2016 (61%) in_queue=59546 active_sites=91 | last 30s: 365 visited/min, 242 saved/min
+2026-11-26 09:42:26,615 WARNING 403 from https://tiny.pl/7g-xshmyp
+2026-11-26 09:42:31,174 WARNING 403 from https://politechnikalodzka.bip.gov.pl/
+2026-11-26 09:42:40,461 WARNING skipping player.radiozet.pl from now on (no Polish text in the first 15 pages)
+2026-11-26 09:42:49,072 INFO stopped by user, run again to continue
+2026-11-26 09:43:00,121 INFO finished: visited=3533 saved=2189 (62%) in 6.7 min (19572 saved/hour)
